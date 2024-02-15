@@ -10,8 +10,6 @@
 <br/>
 
 ### Contact me:
-
-<a href="wa.me/6285624246461"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/maqielhilmanm/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
 <!--
